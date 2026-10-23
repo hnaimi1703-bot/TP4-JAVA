@@ -1,0 +1,59 @@
+
+[
+  {
+    "id": 10,
+    "name": "Roses rouges",
+    "category": "Roses",
+    "price": 150,
+    "stock": 20
+  },
+  {
+    "id": 11,
+    "name": "Roses roses",
+    "category": "Roses",
+    "price": 140,
+    "stock": 15
+  },
+  {
+    "id": 12,
+    "name": "Roses blanches",
+    "category": "Roses",
+    "price": 145,
+    "stock": 12
+  },
+  {
+    "id": 13,
+    "name": "Tulipes",
+    "category": "Fleurs de saison",
+    "price": 120,
+    "stock": 18
+  },
+  {
+    "id": 14,
+    "name": "Lys blancs",
+    "category": "Fleurs de saison",
+    "price": 180,
+    "stock": 10
+  },
+  {
+    "id": 15,
+    "name": "Bouquet romantique",
+    "category": "Bouquets",
+    "price": 350,
+    "stock": 8
+  },
+  {
+    "id": 16,
+    "name": "Bouquet mariage",
+    "category": "Bouquets",
+    "price": 500,
+    "stock": 5
+  },
+  {
+    "id": 17,
+    "name": "Orchidée",
+    "category": "Plantes fleuries",
+    "price": 220,
+    "stock": 7
+  }
+]
